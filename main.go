@@ -7,4 +7,5 @@ import (
 func main() {
 	t := logic.NewDDZ()
 	t.DealCard()
+	t.GrabLandlord()
 }
